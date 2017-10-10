@@ -1,3 +1,3 @@
 # hello-world
 Training Repository
-Making changes bruh.
+Making changes.
